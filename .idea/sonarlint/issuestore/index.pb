@@ -11,3 +11,9 @@ E
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+M
+vbook-service/settings.gradle,9\c\9c8370f16e651612e1886023c046458c83585ac3
+H
+vbook-ui/settings.gradle,1\8\18b4c29249cc29a3cb9ef5d1b8a1678c42d77ca1
+O
+vbook-service/vbook-service.iml,3\0\30f948295a3f51d3c6042e32ab23c06e62b6b60b
