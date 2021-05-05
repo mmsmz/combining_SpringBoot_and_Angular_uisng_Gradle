@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'vbook-app'
-include ':vbook-service', ':vbook-ui'
+include 'vbook-service', 'vbook-ui'
